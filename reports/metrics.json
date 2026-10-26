@@ -1,0 +1,14 @@
+{
+  "logistic_regression": {
+    "roc_auc": 0.6973,
+    "pr_auc": 0.2902,
+    "capture_top10pct": 0.3098,
+    "capture_top20pct": 0.4478
+  },
+  "gradient_boosting": {
+    "roc_auc": 0.6874,
+    "pr_auc": 0.2705,
+    "capture_top10pct": 0.3013,
+    "capture_top20pct": 0.431
+  }
+}
